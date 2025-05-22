@@ -12,4 +12,4 @@ result = linear_search(numbers, 22)
 if result is None:
     print("Value not found")
 else:
-    print("Value found:", result)
+    print("Value Found:", result)
