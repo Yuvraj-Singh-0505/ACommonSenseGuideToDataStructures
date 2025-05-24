@@ -21,7 +21,7 @@ for i in range(n):
         step += 1
 
     if not swapped:
-        print("No swaps made in this pass — array is sorted.")
+        print("No swaps made in this pass3 — array is sorted.")
         break
 
 print("\nSorted array:", arr)
