@@ -50,7 +50,7 @@ def level_order_traversal(root):
             queue.append(current.right)
     print()
 
-preorder_list = [1, 2, -1, -1, 3, 4, -1, -1, 5, -1, -1]
+preorder_list = [0,5,3,-3,-5,3,6,7,-7]
 root = build_tree(preorder_list)
 
 print("Level Order:")
